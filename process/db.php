@@ -1,0 +1,9 @@
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "managetournament";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+?>
